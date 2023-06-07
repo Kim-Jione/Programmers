@@ -22,5 +22,3 @@ jobs:
 
       - name: Update Programmers Stats
         run: npm run update-stats
-        env:
-          PROGRAMMERS_API_TOKEN: ${{ secrets.PROGRAMMERS_API_TOKEN }}
