@@ -1,0 +1,10 @@
+{
+  "name": "programmers-github-profile",
+  "version": "1.0.0",
+  "scripts": {
+    "update-stats": "node update-stats.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
