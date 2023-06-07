@@ -3,7 +3,7 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 
 async function fetchProgrammersStats() {
-  const username = 'your_programmers_username';
+  const username = 'hghg1036@gmail.com';
   const profileUrl = `https://programmers.co.kr/${username}`;
 
   try {
